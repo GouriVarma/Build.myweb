@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(41, 15, 64);
+  margin:30px ;
+}
+h1{
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  font-size:larger;
+  font-family: 'Quintessential', cursive;
+  color: rgb(195, 201, 207);
+}
